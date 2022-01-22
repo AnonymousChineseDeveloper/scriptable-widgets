@@ -1,5 +1,5 @@
 {
-  "WIDGET_VERSION": "v2.0.2",
-  "WIDGET_BUILD": "2022012101",
-  "CHANGELOG": "1.添加主题切换功能"
+  "WIDGET_VERSION": "v2.0.3",
+  "WIDGET_BUILD": "2022012201",
+  "CHANGELOG": "1.修复主题切换功能BUG\n2.调整远控命令操作返回\n"
 }
