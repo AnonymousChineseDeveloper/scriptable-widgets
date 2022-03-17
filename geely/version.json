@@ -1,5 +1,5 @@
 {
-  "WIDGET_VERSION": "v2.0.4",
-  "WIDGET_BUILD": "2022012401",
-  "CHANGELOG": "1.优化静态地图加载\n"
+  "WIDGET_VERSION": "v2.0.6",
+  "WIDGET_BUILD": "2022031701",
+  "CHANGELOG": "1.同步官方时间格式显示\n"
 }
