@@ -1,5 +1,5 @@
 {
-  "WIDGET_VERSION": "v2.0.5",
-  "WIDGET_BUILD": "2022021401",
-  "CHANGELOG": "1.优化静态地图显示\n"
+  "WIDGET_VERSION": "v2.0.6",
+  "WIDGET_BUILD": "2022031701",
+  "CHANGELOG": "1.同步官方时间格式显示\n2.添加Boxjs支持"
 }
